@@ -31,7 +31,17 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # 상태 관리를 위한 Riverpod
+  flutter_riverpod: ^2.3.6
 
+  # HTTP 요청을 위한 Dio
+  dio: ^5.2.3
+
+  # Equatable을 사용하여 값 기반 비교를 지원 (선택 사항)
+  equatable: ^2.0.5
+
+  # mocktail은 mockito보다 사용하기 간편한 모킹 라이브러리입니다.
+  mocktail: ^0.3.0  # 최신 버전 확인 후 적용
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
