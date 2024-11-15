@@ -1,6 +1,5 @@
 # flutter_demo_jsonplaceholder_v1
 
-### Provider와 ProviderContainer 간의 관계 도식화 (PostViewModel 포함, StateNotifier 명시)
 
 ```
 [ProviderContainer]
